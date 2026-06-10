@@ -1,0 +1,22 @@
+[
+  "chapter_01_introduction.md",
+  "chapter_02_Installation.md",
+  "chapter_03_Core Concepts.md",
+  "chapter_04_Reconnaissance.md",
+  "chapter_05_Exploitation.md",
+  "chapter_06_Post_Exploitation.md",
+  "chapter_07_Meterpreter.md",
+  "chapter_08_Attack_Chains.md",
+  "chapter_09-Defensive Perspective.md",
+  "chapter_10_Advanced Concepts.md",
+  "AppendixA_Command Reference.md",
+  "AppendixB_Cheat Sheet.md",
+  "Use_Cases.md",
+  "Metasploit_Modules.md",  
+  "Main_Commands.md",
+  "db_nmap.md",
+  "Exploit_Windows_EternalBlue.md",
+  "Privilege_Escalation_Linux.md",
+  "Getting_Meterpreter_Linux.md",
+  "glossary.md"
+]
